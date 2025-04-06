@@ -1,3 +1,6 @@
 [submodule "vendor/Konfmodule"]
 	path = vendor/Konfmodule
 	url = https://github.com/dieapparatur/Konfmodule.git
+[submodule "tree/KonfTree"]
+	path = tree/KonfTree
+	url = https://github.com/dieapparatur/KonfTree.git
