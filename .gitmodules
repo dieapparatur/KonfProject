@@ -1,0 +1,3 @@
+[submodule "vendor/Konfmodule"]
+	path = vendor/Konfmodule
+	url = https://github.com/dieapparatur/Konfmodule.git
